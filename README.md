@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programming: incorrect subscripting when working with tables.  The provided COBOL code attempts to populate a table but contains a subtle error in the way it accesses table elements.  The solution shows the corrected code and highlights the importance of paying close attention to array indexing in COBOL.
